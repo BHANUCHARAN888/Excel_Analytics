@@ -5,7 +5,7 @@
 - [x] Excel Basics
 - [x] Sorting and Filtering
 - [x] Formulas
-- [ ] Logical Functions
+- [x] Logical Functions
 - [ ] Lookups
 - [ ] Pivot Tables
 - [ ] Dashboards
