@@ -6,7 +6,7 @@
 - [x] Sorting and Filtering
 - [x] Formulas
 - [x] Logical Functions
-- [ ] Lookups
+- [x] Lookups
 - [ ] Pivot Tables
 - [ ] Dashboards
 
