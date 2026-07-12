@@ -7,6 +7,7 @@
 - [x] Formulas
 - [x] Logical Functions
 - [x] Lookups
+- [x] Text Functions
 - [ ] Pivot Tables
 - [ ] Dashboards
 
