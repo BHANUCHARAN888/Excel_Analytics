@@ -8,6 +8,7 @@
 - [x] Logical Functions
 - [x] Lookups
 - [x] Text Functions
+- [x] Date Functions
 - [ ] Pivot Tables
 - [ ] Dashboards
 
