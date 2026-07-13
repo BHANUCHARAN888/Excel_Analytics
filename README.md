@@ -9,7 +9,7 @@
 - [x] Lookups
 - [x] Text Functions
 - [x] Date Functions
-- [ ] Pivot Tables
+- [x] Pivot Tables
 - [ ] Dashboards
 
 ## Projects
