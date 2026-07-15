@@ -10,7 +10,7 @@
 - [x] Text Functions
 - [x] Date Functions
 - [x] Pivot Tables
-- [ ] Dashboards
+- [x] Dashboards
 
 ## Projects
 - Employee Dataset Cleaning
